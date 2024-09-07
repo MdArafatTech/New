@@ -1,0 +1,41 @@
+body{
+    /* background: url(img.jpg); */
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    
+}
+p{
+    font-size: 15px;
+    padding: 15px 20px;
+}
+a{
+    background: rgb(237, 138, 51);
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+a:hover{
+    background: #f40808;
+    color: white;
+}
+div{
+    background: #e056fd;
+    margin: 20px;
+    padding: 20px; 
+}
+
+
+/* .one:hover{
+    background:#4834d4;
+} */
+.two:hover{
+    background: url(img.jpg);
+ 
+  
+
+}
+
+
